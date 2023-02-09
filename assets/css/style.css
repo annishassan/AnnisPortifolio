@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: #2a607c;
+    width: 98%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left:10px ;
+    margin-right:10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    justify-content: center;
+   
+}
+.header h1{
+    color: aliceblue;
+    margin-left: 30px;
+    text-align: left;
+    margin-inline: 80px;
+    
+}
+.header nav{
+    color:aliceblue;
+    text-align: right;
+    padding-bottom: 10px;
+    margin-right: 20px;
+}
+.header nav ul li {
+    display: inline-block;
+    padding: 0 50px;
+    font-weight: bold;
+    padding-inline: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+figure img {
+    width: 98%;
+    height:200px;
+    justify-content:center;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row-1{
+    display:flex;
+    width:98%;
+    height:250px;
+    /* border:2px solid black; */
+    margin-left: 10px;
+    margin-right : 10px;
+    margin-top:20px;
+
+}
+.about-me-title{
+    border-right: 5px solid blue;
+    width : 300px;
+    height: 230px;
+    text-align: right;
+    padding-inline: 20px;
+    margin-top: 10px;
+    margin-left:0px;
+}
+.about-me-text{
+    margin-left:60px;
+    margin-top:40px;
+    padding-top: 3px;
+}
+
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 30px;
+    margin-top:40px;
+}
+
+.row-2{
+    display: flex;
+    height: 600px;
+    width: 98%;
+    /* border: solid 2px black; */
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right : 10px
+}
+
+.work{
+    border-right: 5px solid blue;
+    width:300px;
+    height:550px;
+    margin-left:10px;
+    margin-top:20px;
+    text-align: right;
+}
+
+#title-horiseon{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#big-image{
+    margin-top:20px;
+    width: 800px;
+    height:300px;
+}
+#contact-me{
+    border-bottom: 5px solid blue;
+    width : 300px;
+    height: 180px;
+    text-align: right;
+    padding-inline: 20px;
+    margin-top: 40px;
+    margin-left:10px;
+}
+
+.bottom-row{
+    margin-top:30px;
+    margin-left:60px;
+    border-bottom: solid blue 5px;
+    height:200px;
+    width:200px;
+    padding-top: 130px;
+    padding-left:15px;
+}
