@@ -47,3 +47,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 This week i was tasked with making a portifolio included in my website i have my first project horiseon
 
+# links to my github and portifolio website
+
+github - https://github.com/annishassan
+
+url for my deployed application - https://annishassan.github.io/AnnisPortifolio/ 
