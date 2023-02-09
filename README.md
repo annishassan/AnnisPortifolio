@@ -49,6 +49,6 @@ This week i was tasked with making a portifolio included in my website i have my
 
 # links to my github and portifolio website
 
-github - https://github.com/annishassan
+github - https://github.com/annishassan/AnnisPortifolio
 
 url for my deployed application - https://annishassan.github.io/AnnisPortifolio/ 
