@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* start of header styling */
 .header{
     background-color: #2a607c;
     width: 98%;
@@ -35,7 +36,7 @@
     font-weight: bold;
     padding-inline: 30px;
 }
-
+/* header styling finished */
 a {
     color: white;
     text-decoration: none;
@@ -57,7 +58,6 @@ h1 {
     display:flex;
     width:98%;
     height:250px;
-    /* border:2px solid black; */
     margin-left: 10px;
     margin-right : 10px;
     margin-top:20px;
@@ -89,7 +89,6 @@ h2{
     display: flex;
     height: 600px;
     width: 98%;
-    /* border: solid 2px black; */
     margin-top:20px;
     margin-left: 10px;
     margin-right : 10px
